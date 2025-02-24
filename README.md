@@ -8,7 +8,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>BAD N3WS - K-Pop</title>
+    <title>BAD N3WS </title>
 
     <style>
 
@@ -16,7 +16,7 @@
 
             font-family: Arial, sans-serif;
 
-            background-color: #f4f4f4;
+            background-color: #8B0000;
 
             margin: 0;
 
@@ -90,7 +90,7 @@
 
     <header>
 
-        BAD N3WS - Pop
+        BAD N3WS 
 
     </header>
 
